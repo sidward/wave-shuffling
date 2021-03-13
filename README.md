@@ -8,7 +8,7 @@ Written by Siddharth Srinivasan. Please feel free to post a GitHub issue if ther
 
 Tested with:
   - MATLAB 2020b
-  - BART V7 (``https://zenodo.org/record/4570601``)
+  - BART (``https://zenodo.org/record/4570601``)
 
 ## Requirements.
 
@@ -30,4 +30,4 @@ All rights/distribution are the same as for the original code, and should cite t
 
 ## DOI
 
-TODO
+[![DOI](https://zenodo.org/badge/347115317.svg)](https://zenodo.org/badge/latestdoi/347115317)
